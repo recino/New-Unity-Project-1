@@ -1,0 +1,23 @@
+print "Starting maya loading and fbx conversion \n";
+	
+if (`file -q -exists "/Users/Peter/Desktop/Unity/New Unity Project 1/Assets/Character/goblin 1.mb"`)
+{		
+	file -o "/Users/Peter/Desktop/Unity/New Unity Project 1/Assets/Character/goblin 1.mb";
+	FBXExportEmbeddedTextures -v false;
+	// FBXExportHardEdges -v true;
+	FBXExportApplyConstantKeyReducer -v false;
+	FBXExportShowUI -v false;
+
+	print "Before fbx export\n";
+	FBXExport -f "/Users/Peter/Desktop/Unity/New Unity Project 1/Temp/ExportedFBXFile.fbx";
+	print "after fbx export\n";
+}
+else
+	print "Could not open Maya file.";
+
+
+system ("rm \"/Users/Peter/Desktop/Unity/New Unity Project 1/Temp/CommandPipe\"");
+
+$donepipeKill = `fopen "/Users/Peter/Desktop/Unity/New Unity Project 1/Temp/SyncPipeKill" "w"`;
+fwrite $donepipeKill "Done";
+fclose $donepipeKill;
