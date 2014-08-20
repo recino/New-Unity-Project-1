@@ -1,11 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../ScriptingClass/Assets/Programing scripts/PlayerInput.cs">
-    <Files>
-      <File FileName="../../../ScriptingClass/Assets/Programing scripts/PlayerInput.cs" Line="46" Column="68" />
-      <File FileName="../../../ScriptingClass/Assets/Programing scripts/CubePlayer.cs" Line="67" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

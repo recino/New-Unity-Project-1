@@ -1,0 +1,2539 @@
+fileFormatVersion: 2
+guid: aa30bb981b1ac4dcc8e53980959ca679
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: day_1_hand_005:polySurface3
+    100002: dude4:H_DDS_LowRes
+    100004: dude4:l_L_eye
+    100006: dude4:l_L_gland
+    100008: dude4:l_R_eye
+    100010: dude4:l_R_gland
+    100012: dude4:master
+    100014: dude4:Reference
+    100016: ikHandle10
+    100018: ikHandle3
+    100020: ikHandle4
+    100022: ikHandle5
+    100024: ikHandle6
+    100026: ikHandle7
+    100028: ikHandle8
+    100030: ikHandle9
+    100032: imagePlane1
+    100034: imagePlane2
+    100036: imagePlane3
+    100038: joint1
+    100040: joint10
+    100042: joint11
+    100044: joint12
+    100046: joint13
+    100048: joint15
+    100050: joint19
+    100052: joint2
+    100054: joint2 1
+    100056: joint20
+    100058: joint21
+    100060: joint22
+    100062: joint23
+    100064: joint24
+    100066: joint25
+    100068: joint26
+    100070: joint27
+    100072: joint28
+    100074: joint29
+    100076: joint3
+    100078: joint3 1
+    100080: joint30
+    100082: joint31
+    100084: joint32
+    100086: joint33
+    100088: joint34
+    100090: joint35
+    100092: joint36
+    100094: joint37
+    100096: joint38
+    100098: joint39
+    100100: joint4
+    100102: joint4 1
+    100104: joint40
+    100106: joint41
+    100108: joint42
+    100110: joint43
+    100112: joint44
+    100114: joint45
+    100116: joint46
+    100118: joint47
+    100120: joint48
+    100122: joint49
+    100124: joint5
+    100126: joint5 1
+    100128: joint50
+    100130: joint51
+    100132: joint52
+    100134: joint53
+    100136: joint54
+    100138: joint55
+    100140: joint56
+    100142: joint57
+    100144: joint58
+    100146: joint59
+    100148: joint6
+    100150: joint60
+    100152: joint61
+    100154: joint62
+    100156: joint63
+    100158: joint64
+    100160: joint65
+    100162: joint66
+    100164: joint67
+    100166: joint68
+    100168: joint69
+    100170: joint7
+    100172: joint70
+    100174: joint71
+    100176: joint72
+    100178: joint73
+    100180: joint74
+    100182: joint75
+    100184: joint8
+    100186: joint9
+    100188: //RootNode
+    100190: knight_Shield_solo:knight_Shield_solo:locator3
+    100192: knight_Shield_solo:knight_Shield_solo:Peter_s_Knight_Shield_UV_d:polySurface24
+    100194: locator1
+    100196: locator2
+    100198: nurbsCircle1
+    100200: nurbsCircle10
+    100202: nurbsCircle11
+    100204: nurbsCircle2
+    100206: nurbsCircle3
+    100208: nurbsCircle4
+    100210: nurbsCircle5
+    100212: nurbsCircle6
+    100214: nurbsCircle7
+    100216: nurbsCircle8
+    100218: nurbsCircle9
+    100220: nurbsSphere1
+    100222: nurbsSphere2
+    100224: nurbsSphere3
+    100226: pCone1
+    100228: pCone2
+    100230: pCone3
+    100232: pCone4
+    100234: pCube1
+    100236: pCube3
+    100238: pCube4
+    100240: pCube5
+    100242: pCube7
+    100244: pCube8
+    100246: pCube9
+    100248: pCylinder1
+    100250: pCylinder10
+    100252: pCylinder11
+    100254: pCylinder11 1
+    100256: pCylinder12
+    100258: pCylinder12 1
+    100260: pCylinder13
+    100262: pCylinder13 1
+    100264: pCylinder14
+    100266: pCylinder14 1
+    100268: pCylinder15
+    100270: pCylinder15 1
+    100272: pCylinder16
+    100274: pCylinder17
+    100276: pCylinder18
+    100278: pCylinder18 1
+    100280: pCylinder19
+    100282: pCylinder19 1
+    100284: pCylinder20
+    100286: pCylinder21
+    100288: pCylinder22
+    100290: pCylinder5
+    100292: pCylinder8
+    100294: polySurface2
+    100296: polySurface2 1
+    100298: polySurface3
+    100300: polySurface4
+    100302: polySurface5
+    100304: polySurface6
+    100306: polySurface7
+    100308: pPipe1
+    100310: pPlane1
+    100312: pPlane15
+    100314: pPlane16
+    100316: pPlane17
+    100318: pPlane2
+    100320: pPlane3
+    100322: pPlane4
+    100324: pPlane7
+    100326: pPlane7 1
+    100328: pSphere1
+    100330: rusword:blade
+    100332: rusword:end
+    100334: rusword:garda
+    100336: rusword:hand
+    100338: rusword:sharik
+    100340: rusword:transform1
+    100342: rusword:transform2
+    100344: rusword:transform3
+    100346: rusword:transform4
+    100348: rusword:transform5
+    100350: transform1
+    100352: transform10
+    100354: transform11
+    100356: transform12
+    100358: transform13
+    100360: transform14
+    100362: transform15
+    100364: transform16
+    100366: transform17
+    100368: transform18
+    100370: transform19
+    100372: transform2
+    100374: transform20
+    100376: transform21
+    100378: transform22
+    100380: transform23
+    100382: transform24
+    100384: transform25
+    100386: transform26
+    100388: transform27
+    100390: transform28
+    100392: transform29
+    100394: transform3
+    100396: transform30
+    100398: transform31
+    100400: transform32
+    100402: transform33
+    100404: transform34
+    100406: transform35
+    100408: transform36
+    100410: transform37
+    100412: transform38
+    100414: transform39
+    100416: transform4
+    100418: transform40
+    100420: transform41
+    100422: transform42
+    100424: transform43
+    100426: transform44
+    100428: transform45
+    100430: transform46
+    100432: transform47
+    100434: transform48
+    100436: transform49
+    100438: transform5
+    100440: transform50
+    100442: transform51
+    100444: transform6
+    100446: transform7
+    100448: transform8
+    100450: transform9
+    400000: day_1_hand_005:polySurface3
+    400002: dude4:H_DDS_LowRes
+    400004: dude4:l_L_eye
+    400006: dude4:l_L_gland
+    400008: dude4:l_R_eye
+    400010: dude4:l_R_gland
+    400012: dude4:master
+    400014: dude4:Reference
+    400016: ikHandle10
+    400018: ikHandle3
+    400020: ikHandle4
+    400022: ikHandle5
+    400024: ikHandle6
+    400026: ikHandle7
+    400028: ikHandle8
+    400030: ikHandle9
+    400032: imagePlane1
+    400034: imagePlane2
+    400036: imagePlane3
+    400038: joint1
+    400040: joint10
+    400042: joint11
+    400044: joint12
+    400046: joint13
+    400048: joint15
+    400050: joint19
+    400052: joint2
+    400054: joint2 1
+    400056: joint20
+    400058: joint21
+    400060: joint22
+    400062: joint23
+    400064: joint24
+    400066: joint25
+    400068: joint26
+    400070: joint27
+    400072: joint28
+    400074: joint29
+    400076: joint3
+    400078: joint3 1
+    400080: joint30
+    400082: joint31
+    400084: joint32
+    400086: joint33
+    400088: joint34
+    400090: joint35
+    400092: joint36
+    400094: joint37
+    400096: joint38
+    400098: joint39
+    400100: joint4
+    400102: joint4 1
+    400104: joint40
+    400106: joint41
+    400108: joint42
+    400110: joint43
+    400112: joint44
+    400114: joint45
+    400116: joint46
+    400118: joint47
+    400120: joint48
+    400122: joint49
+    400124: joint5
+    400126: joint5 1
+    400128: joint50
+    400130: joint51
+    400132: joint52
+    400134: joint53
+    400136: joint54
+    400138: joint55
+    400140: joint56
+    400142: joint57
+    400144: joint58
+    400146: joint59
+    400148: joint6
+    400150: joint60
+    400152: joint61
+    400154: joint62
+    400156: joint63
+    400158: joint64
+    400160: joint65
+    400162: joint66
+    400164: joint67
+    400166: joint68
+    400168: joint69
+    400170: joint7
+    400172: joint70
+    400174: joint71
+    400176: joint72
+    400178: joint73
+    400180: joint74
+    400182: joint75
+    400184: joint8
+    400186: joint9
+    400188: //RootNode
+    400190: knight_Shield_solo:knight_Shield_solo:locator3
+    400192: knight_Shield_solo:knight_Shield_solo:Peter_s_Knight_Shield_UV_d:polySurface24
+    400194: locator1
+    400196: locator2
+    400198: nurbsCircle1
+    400200: nurbsCircle10
+    400202: nurbsCircle11
+    400204: nurbsCircle2
+    400206: nurbsCircle3
+    400208: nurbsCircle4
+    400210: nurbsCircle5
+    400212: nurbsCircle6
+    400214: nurbsCircle7
+    400216: nurbsCircle8
+    400218: nurbsCircle9
+    400220: nurbsSphere1
+    400222: nurbsSphere2
+    400224: nurbsSphere3
+    400226: pCone1
+    400228: pCone2
+    400230: pCone3
+    400232: pCone4
+    400234: pCube1
+    400236: pCube3
+    400238: pCube4
+    400240: pCube5
+    400242: pCube7
+    400244: pCube8
+    400246: pCube9
+    400248: pCylinder1
+    400250: pCylinder10
+    400252: pCylinder11
+    400254: pCylinder11 1
+    400256: pCylinder12
+    400258: pCylinder12 1
+    400260: pCylinder13
+    400262: pCylinder13 1
+    400264: pCylinder14
+    400266: pCylinder14 1
+    400268: pCylinder15
+    400270: pCylinder15 1
+    400272: pCylinder16
+    400274: pCylinder17
+    400276: pCylinder18
+    400278: pCylinder18 1
+    400280: pCylinder19
+    400282: pCylinder19 1
+    400284: pCylinder20
+    400286: pCylinder21
+    400288: pCylinder22
+    400290: pCylinder5
+    400292: pCylinder8
+    400294: polySurface2
+    400296: polySurface2 1
+    400298: polySurface3
+    400300: polySurface4
+    400302: polySurface5
+    400304: polySurface6
+    400306: polySurface7
+    400308: pPipe1
+    400310: pPlane1
+    400312: pPlane15
+    400314: pPlane16
+    400316: pPlane17
+    400318: pPlane2
+    400320: pPlane3
+    400322: pPlane4
+    400324: pPlane7
+    400326: pPlane7 1
+    400328: pSphere1
+    400330: rusword:blade
+    400332: rusword:end
+    400334: rusword:garda
+    400336: rusword:hand
+    400338: rusword:sharik
+    400340: rusword:transform1
+    400342: rusword:transform2
+    400344: rusword:transform3
+    400346: rusword:transform4
+    400348: rusword:transform5
+    400350: transform1
+    400352: transform10
+    400354: transform11
+    400356: transform12
+    400358: transform13
+    400360: transform14
+    400362: transform15
+    400364: transform16
+    400366: transform17
+    400368: transform18
+    400370: transform19
+    400372: transform2
+    400374: transform20
+    400376: transform21
+    400378: transform22
+    400380: transform23
+    400382: transform24
+    400384: transform25
+    400386: transform26
+    400388: transform27
+    400390: transform28
+    400392: transform29
+    400394: transform3
+    400396: transform30
+    400398: transform31
+    400400: transform32
+    400402: transform33
+    400404: transform34
+    400406: transform35
+    400408: transform36
+    400410: transform37
+    400412: transform38
+    400414: transform39
+    400416: transform4
+    400418: transform40
+    400420: transform41
+    400422: transform42
+    400424: transform43
+    400426: transform44
+    400428: transform45
+    400430: transform46
+    400432: transform47
+    400434: transform48
+    400436: transform49
+    400438: transform5
+    400440: transform50
+    400442: transform51
+    400444: transform6
+    400446: transform7
+    400448: transform8
+    400450: transform9
+    2300000: knight_Shield_solo:knight_Shield_solo:Peter_s_Knight_Shield_UV_d:polySurface24
+    2300002: pCone4
+    2300004: pCube5
+    2300006: pCube7
+    2300008: pCylinder5
+    2300010: pCylinder8
+    2300012: pPlane17
+    3300000: knight_Shield_solo:knight_Shield_solo:Peter_s_Knight_Shield_UV_d:polySurface24
+    3300002: pCone4
+    3300004: pCube5
+    3300006: pCube7
+    3300008: pCylinder5
+    3300010: pCylinder8
+    3300012: pPlane17
+    4300000: pCylinder5
+    4300002: pCylinder8
+    4300004: polySurface6
+    4300006: polySurface7
+    4300008: pCone4
+    4300010: pCube5
+    4300012: pCube7
+    4300014: pPlane17
+    4300016: knight_Shield_solo:knight_Shield_solo:Peter_s_Knight_Shield_UV_d:polySurface24
+    7400000: Run_Normal
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface6
+    13700002: polySurface7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run_Normal
+      takeName: Take 001
+      firstFrame: 22
+      lastFrame: 45
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dude4:master
+        weight: 1
+      - path: dude4:master/dude4:Reference
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      - path: imagePlane2
+        weight: 1
+      - path: imagePlane3
+        weight: 1
+      - path: knight_Shield_solo:knight_Shield_solo:Peter_s_Knight_Shield_UV_d:polySurface24
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle3
+        weight: 1
+      - path: nurbsCircle1/ikHandle5
+        weight: 1
+      - path: nurbsCircle1/ikHandle7
+        weight: 1
+      - path: nurbsCircle1/ikHandle8
+        weight: 1
+      - path: nurbsCircle1/ikHandle9
+        weight: 1
+      - path: nurbsCircle1/ikHandle10
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/ikHandle4
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle3/ikHandle6
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle4
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle6
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7
+        weight: 1
+      - path: nurbsCircle1/pCube5
+        weight: 1
+      - path: nurbsCircle1/pCube7
+        weight: 1
+      - path: nurbsCircle1/transform50
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint1
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint1/joint2
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint1/joint2/joint3
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint6
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint6/joint2 1
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint6/joint2 1/joint3 1
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint6/joint2 1/joint3 1/joint4 1
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint6/joint2 1/joint3 1/joint4 1/joint5
+          1
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint25
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint25/joint26
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint25/joint26/joint27
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint25/joint26/joint27/joint28
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint29
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint29/joint30
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint29/joint30/joint31
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint33
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint33/joint34
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint33/joint34/joint35
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint33/joint34/joint35/joint36
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint37
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint37/joint38
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint37/joint38/joint39
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint41
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint41/joint42
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint41/joint42/joint43
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/joint41/joint42/joint43/joint44
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint15/joint12/joint13/joint19/knight_Shield_solo:knight_Shield_solo:locator3
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint20
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint20/joint21
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint20/joint21/joint22
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint20/joint23
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint20/joint23/joint24
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint20/joint69
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint20/joint69/joint70
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint20/joint69/joint70/joint71
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint20/joint69/joint70/joint71/joint72
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint20/joint69/joint70/joint71/joint72/joint73
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint20/joint69/joint70/joint71/joint72/joint73/joint74
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint20/joint69/joint70/joint71/joint72/joint73/joint74/joint75
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint49
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint49/joint50
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint49/joint50/joint51
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint53
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint53/joint54
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint53/joint54/joint55
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint53/joint54/joint55/joint56
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint57
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint57/joint58
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint57/joint58/joint59
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint57/joint58/joint59/joint60
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint61
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint61/joint62
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint61/joint62/joint63
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint61/joint62/joint63/joint64
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint65
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint65/joint66
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint65/joint66/joint67
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/joint65/joint66/joint67/joint68
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/joint8/joint9/joint10/joint11/joint45/joint46/joint47/joint48/locator2
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/locator1
+        weight: 1
+      - path: nurbsCircle1/transform50/joint7/transform51
+        weight: 1
+      - path: nurbsCircle8
+        weight: 1
+      - path: nurbsCircle9
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle11
+        weight: 1
+      - path: nurbsSphere1
+        weight: 1
+      - path: nurbsSphere2
+        weight: 1
+      - path: nurbsSphere3
+        weight: 1
+      - path: pCone1
+        weight: 1
+      - path: pCone1/transform45
+        weight: 1
+      - path: pCone2
+        weight: 1
+      - path: pCone2/transform43
+        weight: 1
+      - path: pCone3
+        weight: 1
+      - path: pCone3/transform48
+        weight: 1
+      - path: pCone4
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/transform40
+        weight: 1
+      - path: pCube8
+        weight: 1
+      - path: pCube8/transform47
+        weight: 1
+      - path: pCube9
+        weight: 1
+      - path: pCube9/transform42
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder8
+        weight: 1
+      - path: pCylinder22
+        weight: 1
+      - path: pCylinder22/transform46
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface2/transform41
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/polySurface6
+        weight: 1
+      - path: polySurface5/polySurface7
+        weight: 1
+      - path: polySurface5/transform49
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pPlane1/polySurface2 1
+        weight: 1
+      - path: pPlane1/polySurface2 1/day_1_hand_005:polySurface3
+        weight: 1
+      - path: pPlane1/polySurface2 1/day_1_hand_005:polySurface3/transform9
+        weight: 1
+      - path: pPlane1/polySurface2 1/dude4:H_DDS_LowRes
+        weight: 1
+      - path: pPlane1/polySurface2 1/dude4:H_DDS_LowRes/dude4:l_L_eye
+        weight: 1
+      - path: pPlane1/polySurface2 1/dude4:H_DDS_LowRes/dude4:l_L_eye/transform36
+        weight: 1
+      - path: pPlane1/polySurface2 1/dude4:H_DDS_LowRes/dude4:l_L_gland
+        weight: 1
+      - path: pPlane1/polySurface2 1/dude4:H_DDS_LowRes/dude4:l_L_gland/transform37
+        weight: 1
+      - path: pPlane1/polySurface2 1/dude4:H_DDS_LowRes/dude4:l_R_eye
+        weight: 1
+      - path: pPlane1/polySurface2 1/dude4:H_DDS_LowRes/dude4:l_R_eye/transform34
+        weight: 1
+      - path: pPlane1/polySurface2 1/dude4:H_DDS_LowRes/dude4:l_R_gland
+        weight: 1
+      - path: pPlane1/polySurface2 1/dude4:H_DDS_LowRes/dude4:l_R_gland/transform35
+        weight: 1
+      - path: pPlane1/polySurface2 1/dude4:H_DDS_LowRes/transform38
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCube3
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCube3/transform13
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCube4
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCube4/transform12
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder1
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder1/transform24
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder10
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder10/pCylinder11
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder10/pCylinder11/transform30
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder10/pCylinder12
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder10/pCylinder12/transform32
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder10/pCylinder13
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder10/pCylinder13/transform31
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder10/transform33
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder16
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder16/pCylinder11 1
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder16/pCylinder11 1/transform26
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder16/pCylinder12 1
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder16/pCylinder12 1/transform28
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder16/pCylinder13 1
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder16/pCylinder13 1/transform27
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder16/transform29
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder17
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder17/pCylinder18
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder17/pCylinder18/transform20
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder17/pCylinder19
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder17/pCylinder19/transform19
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder17/transform21
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder20
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder20/pCylinder18 1
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder20/pCylinder18 1/transform15
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder20/pCylinder19 1
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder20/pCylinder19 1/transform14
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder20/transform16
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder21
+        weight: 1
+      - path: pPlane1/polySurface2 1/pCylinder21/transform23
+        weight: 1
+      - path: pPlane1/polySurface2 1/polySurface3
+        weight: 1
+      - path: pPlane1/polySurface2 1/polySurface3/transform17
+        weight: 1
+      - path: pPlane1/polySurface2 1/polySurface4
+        weight: 1
+      - path: pPlane1/polySurface2 1/polySurface4/transform25
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPipe1
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPipe1/transform10
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane2
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane2/transform18
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane3
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane3/transform22
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane4
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane4/transform11
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane15
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane15/pCylinder14
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane15/pCylinder14/transform5
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane15/pCylinder15
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane15/pCylinder15/transform6
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane15/pPlane7
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane15/pPlane7/transform7
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane15/transform8
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane16
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane16/pCylinder14 1
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane16/pCylinder14 1/transform1
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane16/pCylinder15 1
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane16/pCylinder15 1/transform2
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane16/pPlane7 1
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane16/pPlane7 1/transform3
+        weight: 1
+      - path: pPlane1/polySurface2 1/pPlane16/transform4
+        weight: 1
+      - path: pPlane1/polySurface2 1/transform39
+        weight: 1
+      - path: pPlane17
+        weight: 1
+      - path: pSphere1
+        weight: 1
+      - path: pSphere1/transform44
+        weight: 1
+      - path: rusword:blade
+        weight: 1
+      - path: rusword:blade/rusword:transform5
+        weight: 1
+      - path: rusword:end
+        weight: 1
+      - path: rusword:end/rusword:transform2
+        weight: 1
+      - path: rusword:garda
+        weight: 1
+      - path: rusword:garda/rusword:transform4
+        weight: 1
+      - path: rusword:hand
+        weight: 1
+      - path: rusword:hand/rusword:transform3
+        weight: 1
+      - path: rusword:sharik
+        weight: 1
+      - path: rusword:sharik/rusword:transform1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: joint7
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint1
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint6
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint2
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint2 1
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint3
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint3 1
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint8
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint9
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint20
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint21
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint15
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint45
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint12
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint46
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint13
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint47
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint19
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint48
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint5
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint5 1
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint22
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint41
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint42
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint43
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint25
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint26
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint27
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint29
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint30
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint31
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint33
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint34
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint35
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint37
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint38
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint39
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint65
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint66
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint67
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint49
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint50
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint51
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint53
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint54
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint55
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint57
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint58
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint59
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint61
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint62
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint63
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: knight 15 hand grasp(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: dude4:master
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: dude4:Reference
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: imagePlane1
+      position: {x: 0, y: 0, z: -44.2974701}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: imagePlane2
+      position: {x: 50.9495125, y: 0, z: -1.13130644e-14}
+      rotation: {x: -0, y: -.707106829, z: 0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: nurbsCircle1
+      position: {x: 0, y: -4.86893559, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 2.46988606, y: 2.46988606, z: 2.46988606}
+      transformModified: 1
+    - name: ikHandle3
+      position: {x: -.264524281, y: .200056165, z: -.175156668}
+      rotation: {x: -.462161541, y: -.53516978, z: .462161541, w: .53516978}
+      scale: {x: .404876947, y: .404876947, z: .404876947}
+      transformModified: 1
+    - name: ikHandle5
+      position: {x: .264903605, y: .200056165, z: -.175156668}
+      rotation: {x: -.462161541, y: -.53516978, z: .462161541, w: .53516978}
+      scale: {x: .404876947, y: .404876947, z: .404876947}
+      transformModified: 1
+    - name: ikHandle7
+      position: {x: -.609657705, y: 1.95978367, z: -.0639116764}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .404876947, y: .404876947, z: .404876947}
+      transformModified: 1
+    - name: ikHandle8
+      position: {x: .580916226, y: 1.9697938, z: -.107386969}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .404876947, y: .404876947, z: .404876947}
+      transformModified: 1
+    - name: ikHandle9
+      position: {x: .135662779, y: 2.60478354, z: -.479519963}
+      rotation: {x: -.445313692, y: -.551330566, z: .455343038, w: .538881302}
+      scale: {x: .404876947, y: .404876947, z: .404876947}
+      transformModified: 1
+    - name: ikHandle10
+      position: {x: .147409022, y: 2.09351349, z: -.571798742}
+      rotation: {x: -.437257409, y: -.557690263, z: .447529465, w: .545440137}
+      scale: {x: .404876947, y: .404876947, z: .404876947}
+      transformModified: 1
+    - name: nurbsCircle2
+      position: {x: -.246598423, y: .0450168625, z: -.00955007691}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .406783521, y: .406783521, z: .406783521}
+      transformModified: 1
+    - name: ikHandle4
+      position: {x: -.044067312, y: .00491354614, z: .531282604}
+      rotation: {x: .043937806, y: .705740392, z: .043937806, w: .705740392}
+      scale: {x: .995313048, y: .995313048, z: .995313048}
+      transformModified: 1
+    - name: nurbsCircle3
+      position: {x: .241920546, y: .0450168625, z: -.00955007691}
+      rotation: {x: 6.12323426e-17, y: 1, z: -6.12323426e-17, w: -6.12323426e-17}
+      scale: {x: .406947404, y: .406783521, z: -.406783521}
+      transformModified: 1
+    - name: ikHandle6
+      position: {x: -.0564767271, y: .00491354614, z: .531282604}
+      rotation: {x: .043937806, y: .705740392, z: .043937806, w: .705740392}
+      scale: {x: .995313048, y: .995313048, z: -.994912207}
+      transformModified: 1
+    - name: nurbsCircle4
+      position: {x: -.689828932, y: 1.82898378, z: -.0834246501}
+      rotation: {x: 0, y: 0, z: .49723044, w: .867618561}
+      scale: {x: .263864517, y: .263864517, z: .263864517}
+      transformModified: 1
+    - name: nurbsCircle5
+      position: {x: .661247909, y: 1.83899403, z: -.126899943}
+      rotation: {x: .867617965, y: -.497231424, z: -3.04466423e-17, w: 5.3126277e-17}
+      scale: {x: .263864517, y: .263864517, z: .263864517}
+      transformModified: 1
+    - name: nurbsCircle6
+      position: {x: .147409022, y: 2.09351397, z: -.57180053}
+      rotation: {x: .138936341, y: .000300430052, z: .113435142, w: .983783066}
+      scale: {x: .16479826, y: .16479826, z: .16479826}
+      transformModified: 1
+    - name: nurbsCircle7
+      position: {x: .135662779, y: 2.60478354, z: -.479519963}
+      rotation: {x: .127192959, y: .0161408018, z: .000650588132, w: .991746426}
+      scale: {x: .16479826, y: .16479826, z: .16479826}
+      transformModified: 1
+    - name: pCube5
+      position: {x: -.579559326, y: 3.19343019, z: -.821540773}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .10154213, y: .10154213, z: .10154213}
+      transformModified: 1
+    - name: pCube7
+      position: {x: .588989913, y: 3.19041967, z: -.823042452}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .10154213, y: .10154213, z: .10154213}
+      transformModified: 1
+    - name: transform50
+      position: {x: -0, y: 1.9527216, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .404876947, y: .404876947, z: .404876947}
+      transformModified: 1
+    - name: joint7
+      position: {x: -.0210756417, y: 5.19979954, z: -.25664717}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: locator1
+      position: {x: -1.04546905, y: .190442935, z: .25664717}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform51
+      position: {x: .0210756399, y: -.326797634, z: .25664717}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint1
+      position: {x: -.632269204, y: -1.02736223, z: .054106269}
+      rotation: {x: .489558667, y: .51022774, z: .489558667, w: .510227799}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: joint2
+      position: {x: -1.61358166, y: -1.38777878e-16, z: 2.4669644e-16}
+      rotation: {x: -.995609283, y: -.0936066657, z: 0, w: 5.96046448e-08}
+      scale: {x: .999999881, y: .999999762, z: .999999702}
+      transformModified: 1
+    - name: joint3
+      position: {x: -2.03784084, y: -9.64506253e-16, z: 3.534223e-16}
+      rotation: {x: .863786578, y: .503857791, z: 6.70552183e-08, w: -2.235174e-08}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000036}
+      transformModified: 1
+    - name: joint4
+      position: {x: -.505047441, y: 5.16947596e-16, z: 1.31700415e-16}
+      rotation: {x: -1.49011612e-08, y: -1.1920929e-07, z: -.265029788, w: .964240313}
+      scale: {x: .999999821, y: .999999702, z: 1.00000012}
+      transformModified: 1
+    - name: joint5
+      position: {x: -.548319995, y: 1.83186799e-15, z: 3.35150608e-16}
+      rotation: {x: -.0439378545, y: -.705740392, z: -.0439378433, w: .705740392}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: joint6
+      position: {x: .675357401, y: -1.02736223, z: .054106269}
+      rotation: {x: .489558667, y: .51022774, z: .489558667, w: .510227799}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: joint2 1
+      position: {x: -1.61358166, y: -1.38777878e-16, z: 2.4669644e-16}
+      rotation: {x: -.995609283, y: -.0936066657, z: 0, w: 5.96046448e-08}
+      scale: {x: .999999881, y: .999999762, z: .999999702}
+      transformModified: 1
+    - name: joint3 1
+      position: {x: -2.03784084, y: -9.64506253e-16, z: 3.534223e-16}
+      rotation: {x: .863786578, y: .503857791, z: 6.70552183e-08, w: -2.235174e-08}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000036}
+      transformModified: 1
+    - name: joint4 1
+      position: {x: -.505047441, y: 5.16947596e-16, z: 1.31700415e-16}
+      rotation: {x: -1.49011612e-08, y: -1.1920929e-07, z: -.265029788, w: .964240313}
+      scale: {x: .999999821, y: .999999702, z: 1.00000012}
+      transformModified: 1
+    - name: joint5 1
+      position: {x: -.548319995, y: 1.83186799e-15, z: 3.35150608e-16}
+      rotation: {x: -.0439378545, y: -.705740392, z: -.0439378433, w: .705740392}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: joint8
+      position: {x: .0210756399, y: .366798848, z: -.205769524}
+      rotation: {x: -.416377246, y: .57151556, z: -.416377246, w: .571515501}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: joint9
+      position: {x: -.495948642, y: 2.22044605e-16, z: -6.46142011e-17}
+      rotation: {x: .960860431, y: -.277033091, z: 2.98023224e-08, w: -2.98023224e-08}
+      scale: {x: .99999994, y: .999999702, z: .999999583}
+      transformModified: 1
+    - name: joint10
+      position: {x: -.588159502, y: 2.22044605e-16, z: 2.88798636e-16}
+      rotation: {x: -1.49011594e-08, y: 4.470348e-08, z: -.0678957775, w: .997692406}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: joint11
+      position: {x: -.689633369, y: 3.88578059e-16, z: 1.78484811e-16}
+      rotation: {x: -.325311571, y: .721369028, z: .525137663, w: .313096762}
+      scale: {x: 1.00000012, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: joint15
+      position: {x: -.617191076, y: -2.08166817e-16, z: -2.77555756e-17}
+      rotation: {x: -.0548418537, y: -.114809044, z: -.161816612, w: .978583992}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: joint12
+      position: {x: -.6643821, y: .455423206, z: 0}
+      rotation: {x: -.0726269335, y: .00712665869, z: -.129055351, w: .988948584}
+      scale: {x: .999999881, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: joint13
+      position: {x: -1.32000005, y: -8.32667268e-17, z: -2.91433544e-16}
+      rotation: {x: .338703334, y: .0463427678, z: .162198797, w: .925647914}
+      scale: {x: .999999821, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: joint19
+      position: {x: -1.23021972, y: .380409539, z: -.169988424}
+      rotation: {x: .0750184581, y: .0336343013, z: -.238317177, w: .967701316}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: locator3
+      position: {x: -3.86919373e-06, y: -1.00391151e-06, z: -1.62920128e-06}
+      rotation: {x: .0229123961, y: -.316182971, z: -.555145502, w: .768971264}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint25
+      position: {x: -.294090271, y: -1.50208164e-16, z: 5.06161478e-17}
+      rotation: {x: -.262372255, y: -.200372115, z: .0101348618, w: .943879843}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: joint26
+      position: {x: -.334309697, y: -1.27616525e-16, z: 3.37403716e-16}
+      rotation: {x: .0156245362, y: .00652702712, z: .0399282202, w: .999059141}
+      scale: {x: 1.00000024, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: joint27
+      position: {x: -.113527551, y: -4.16767315e-16, z: -1.18952172e-16}
+      rotation: {x: .020749744, y: .00918914378, z: -.0396023393, w: .998957813}
+      scale: {x: 1.00000024, y: 1, z: .999999762}
+      transformModified: 1
+    - name: joint28
+      position: {x: -.0864795148, y: 3.80060044e-17, z: -6.59127158e-17}
+      rotation: {x: .891901493, y: -.452224076, z: .00204510149, w: .00103702082}
+      scale: {x: .999999881, y: .999999762, z: .999999523}
+      transformModified: 1
+    - name: joint29
+      position: {x: -.238615483, y: -.0648356974, z: -.0905503184}
+      rotation: {x: -.291811824, y: -.232359082, z: -.00882666558, w: .927780867}
+      scale: {x: .999999821, y: .99999994, z: 1}
+      transformModified: 1
+    - name: joint30
+      position: {x: -.340769798, y: 1.94289029e-16, z: 4.64905892e-16}
+      rotation: {x: .0744924396, y: .0338356756, z: .0218649562, w: .996407509}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: joint31
+      position: {x: -.126770303, y: 6.86950496e-16, z: 4.98732999e-17}
+      rotation: {x: -.0354851633, y: -.0236932859, z: .0204837415, w: .998879313}
+      scale: {x: .99999994, y: .999999881, z: .999999762}
+      transformModified: 1
+    - name: joint32
+      position: {x: -.133371264, y: 2.44843767e-16, z: -1.06251813e-17}
+      rotation: {x: .265858263, y: .188029513, z: -.0447678827, w: .944436431}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: joint33
+      position: {x: -.182429925, y: -.0734444112, z: -.152222976}
+      rotation: {x: -.442213476, y: -.289911479, z: .00890751928, w: .848716319}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: joint34
+      position: {x: -.322056413, y: -2.77555756e-16, z: 4.57966998e-16}
+      rotation: {x: .026704561, y: .0205882322, z: .0175933223, w: .999276519}
+      scale: {x: .999999881, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: joint35
+      position: {x: -.138788447, y: 7.63278329e-17, z: -6.9388939e-18}
+      rotation: {x: .120872848, y: .038015157, z: .00958628394, w: .991893589}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: joint36
+      position: {x: -.121099584, y: 3.46944695e-17, z: 1.63064007e-16}
+      rotation: {x: .313796043, y: .228433385, z: -.0310466439, w: .921078861}
+      scale: {x: .999999762, y: .99999994, z: 1}
+      transformModified: 1
+    - name: joint37
+      position: {x: -.0970092118, y: -.0697213635, z: -.226230159}
+      rotation: {x: -.546265721, y: -.291551888, z: .00519818999, w: .785216093}
+      scale: {x: 1.00000012, y: .999999642, z: 1}
+      transformModified: 1
+    - name: joint38
+      position: {x: -.26513195, y: -2.05022631e-16, z: 2.77555756e-16}
+      rotation: {x: .0496173836, y: .0258088391, z: .0317798182, w: .997928858}
+      scale: {x: 1.00000012, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: joint39
+      position: {x: -.0765514523, y: -1.73472348e-16, z: -9.36750677e-17}
+      rotation: {x: .0111036133, y: .0028589156, z: -.0376644507, w: .999224722}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint40
+      position: {x: -.127902865, y: 3.26128013e-16, z: 2.08166817e-17}
+      rotation: {x: .449503362, y: .399350703, z: .0506563112, w: .797433257}
+      scale: {x: .999999881, y: 1, z: .999999881}
+      transformModified: 1
+    - name: joint41
+      position: {x: -.131351992, y: .0192404706, z: .143139631}
+      rotation: {x: .358929485, y: .144059047, z: -.0995264128, w: .916794002}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: joint42
+      position: {x: -.198106393, y: 3.1918912e-16, z: -4.64905892e-16}
+      rotation: {x: -.406009853, y: -.0302741788, z: .00211258116, w: .913364649}
+      scale: {x: .99999994, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: joint43
+      position: {x: -.123533912, y: 9.06393016e-17, z: -1.78676518e-16}
+      rotation: {x: -.102682762, y: -.0362029038, z: -.0166054703, w: .993916452}
+      scale: {x: 1, y: .999999762, z: .999999821}
+      transformModified: 1
+    - name: joint44
+      position: {x: -.109189369, y: 8.30525969e-16, z: -3.03576608e-17}
+      rotation: {x: .09761969, y: .0732003748, z: -.019391302, w: .992338717}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: joint45
+      position: {x: .159802213, y: -.542478859, z: .247186586}
+      rotation: {x: .895005465, y: -.427523851, z: .125530377, w: .0207575746}
+      scale: {x: 1.00000024, y: .999999821, z: .999999642}
+      transformModified: 1
+    - name: joint46
+      position: {x: .664381027, y: -.455419987, z: -6.10622664e-16}
+      rotation: {x: -.0726336315, y: .00712775206, z: -.12905544, w: .988948107}
+      scale: {x: 1.00000036, y: .999999762, z: 1}
+      transformModified: 1
+    - name: joint47
+      position: {x: 1.32000113, y: 2.43421914e-06, z: 8.61963372e-07}
+      rotation: {x: .338703513, y: .0463432781, z: .162200704, w: .925647438}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.0000006}
+      transformModified: 1
+    - name: joint48
+      position: {x: 1.2302202, y: -.380412847, z: .16998975}
+      rotation: {x: .0750186741, y: .0336344652, z: -.238317102, w: .967701375}
+      scale: {x: .999999881, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: locator2
+      position: {x: .292568326, y: .19659856, z: .0142576694}
+      rotation: {x: .857579827, y: -.420033842, z: .26535973, w: .133088782}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint49
+      position: {x: .29409197, y: -2.69124075e-06, z: 1.88695765e-06}
+      rotation: {x: -.262372345, y: -.200372249, z: .0101347258, w: .943879843}
+      scale: {x: .999999642, y: .999999762, z: .999999523}
+      transformModified: 1
+    - name: joint50
+      position: {x: .334304452, y: 6.77069738e-06, z: 1.12454723e-06}
+      rotation: {x: .0156244049, y: .00653018663, z: .0399709046, w: .999057353}
+      scale: {x: 1.00000036, y: .999999881, z: 1.00000036}
+      transformModified: 1
+    - name: joint51
+      position: {x: .11353147, y: -6.74875901e-06, z: -6.6080861e-07}
+      rotation: {x: .0207494386, y: .00920238253, z: -.0396738872, w: .998954892}
+      scale: {x: .999999762, y: 1.00000048, z: 1.00000012}
+      transformModified: 1
+    - name: joint52
+      position: {x: .0864754394, y: 6.37164976e-06, z: 3.44751555e-07}
+      rotation: {x: -.891901433, y: .452224106, z: -.00204510987, w: -.00103678636}
+      scale: {x: 1, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: joint53
+      position: {x: .238615274, y: .0648353994, z: .0905507877}
+      rotation: {x: -.291811913, y: -.232359186, z: -.0088267317, w: .927780807}
+      scale: {x: .999999464, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: joint54
+      position: {x: .340768278, y: 1.58185082e-06, z: 5.21475386e-07}
+      rotation: {x: .0744920745, y: .0338376611, z: .0218731016, w: .99640739}
+      scale: {x: 1.00000036, y: 1.00000024, z: 1.00000036}
+      transformModified: 1
+    - name: joint55
+      position: {x: .126773134, y: -3.37699362e-06, z: -6.97365294e-07}
+      rotation: {x: -.0354851335, y: -.0236934163, z: .0204837862, w: .998879313}
+      scale: {x: .999999702, y: .99999994, z: .999999642}
+      transformModified: 1
+    - name: joint56
+      position: {x: .133370489, y: 1.49058189e-06, z: 6.05092737e-07}
+      rotation: {x: .265858263, y: .188029677, z: -.0447677225, w: .944436371}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: joint57
+      position: {x: .182430327, y: .0734440833, z: .152222842}
+      rotation: {x: -.442213655, y: -.289910972, z: .0089079719, w: .848716378}
+      scale: {x: .999999762, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: joint58
+      position: {x: .322055936, y: -7.15523527e-07, z: 1.28438309e-08}
+      rotation: {x: .0267044511, y: .0205882266, z: .0175933782, w: .999276459}
+      scale: {x: .999999821, y: .99999994, z: .999999702}
+      transformModified: 1
+    - name: joint59
+      position: {x: .140105993, y: .000569180527, z: -.000117415075}
+      rotation: {x: .120949946, y: .0389057659, z: .0108182626, w: .991836905}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: joint60
+      position: {x: .121104874, y: -7.14530825e-06, z: -1.55203588e-06}
+      rotation: {x: .313796073, y: .228433535, z: -.031046655, w: .921078801}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: joint61
+      position: {x: .0970090926, y: .0697208717, z: .226230308}
+      rotation: {x: -.546266258, y: -.291549295, z: .00519327493, w: .785216689}
+      scale: {x: .999999404, y: .999999702, z: .999999762}
+      transformModified: 1
+    - name: joint62
+      position: {x: .265130222, y: 2.38225175e-06, z: 4.00084991e-06}
+      rotation: {x: .0496171154, y: .025798643, z: .0317856893, w: .997928977}
+      scale: {x: 1.00000048, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: joint63
+      position: {x: .0765542984, y: -4.11313795e-06, z: -4.65083713e-06}
+      rotation: {x: .0111048818, y: .00288191298, z: -.037698105, w: .999223351}
+      scale: {x: .999999642, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: joint64
+      position: {x: .127900884, y: 2.08151732e-06, z: 1.71957311e-06}
+      rotation: {x: .449503511, y: .399350911, z: .0506563671, w: .797433078}
+      scale: {x: 1, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: joint65
+      position: {x: .131352037, y: -.0192406513, z: -.143139899}
+      rotation: {x: .358929843, y: .144061461, z: -.0995225161, w: .916793883}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: joint66
+      position: {x: .198106155, y: -4.35596164e-08, z: 0}
+      rotation: {x: -.40601024, y: -.0302745327, z: .00211021164, w: .91336447}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: joint67
+      position: {x: .123533152, y: 1.21457936e-06, z: -9.46564398e-07}
+      rotation: {x: -.102683, y: -.0362048633, z: -.0166104827, w: .993916273}
+      scale: {x: .999999583, y: .999999881, z: 1}
+      transformModified: 1
+    - name: joint68
+      position: {x: .109187819, y: 2.12065993e-06, z: -5.98117595e-07}
+      rotation: {x: .0976199359, y: .0732003078, z: -.0193913262, w: .992338717}
+      scale: {x: .999999881, y: 1, z: .999999821}
+      transformModified: 1
+    - name: joint20
+      position: {x: .185250998, y: .325515985, z: .132080868}
+      rotation: {x: -.266818762, y: .550097108, z: -.69075048, w: .386088908}
+      scale: {x: 1.00000036, y: 1.00000024, z: 1.00000036}
+      transformModified: 1
+    - name: joint21
+      position: {x: -.995332122, y: 2.98372438e-16, z: 2.21008128e-16}
+      rotation: {x: .0777912661, y: -.0823431313, z: .681413889, w: .723079085}
+      scale: {x: .999999881, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: joint22
+      position: {x: -.647657812, y: 5.53376789e-16, z: 1.0474859e-18}
+      rotation: {x: .000385895371, y: -.622455716, z: .00048513338, w: .782654881}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: joint23
+      position: {x: -.99533397, y: 1.7150262e-07, z: 2.21008565e-16}
+      rotation: {x: .0823430344, y: .0777912959, z: .723079026, w: -.681413889}
+      scale: {x: 1.00000012, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: joint24
+      position: {x: .647657812, y: 2.86284762e-06, z: 1.95527261e-09}
+      rotation: {x: .000385761261, y: -.622455835, z: .000485122204, w: .782654762}
+      scale: {x: .999999762, y: 1, z: .999999642}
+      transformModified: 1
+    - name: joint69
+      position: {x: -.224959806, y: .506024063, z: .301816344}
+      rotation: {x: .0952994376, y: -.995448709, z: 1.49011594e-08, w: -4.470348e-08}
+      scale: {x: .999999344, y: 1, z: .999999642}
+      transformModified: 1
+    - name: joint70
+      position: {x: -.544968367, y: -2.42861287e-16, z: -2.42014571e-16}
+      rotation: {x: .000837191939, y: -.0179195851, z: .0466595143, w: .998749852}
+      scale: {x: 1.00000036, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: joint71
+      position: {x: -.462133229, y: -4.33680869e-16, z: -1.47029276e-16}
+      rotation: {x: 0, y: -4.47034729e-08, z: -.0190124027, w: .999819219}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: joint72
+      position: {x: -.465244114, y: 1.37043155e-15, z: -1.61363363e-16}
+      rotation: {x: 2.98023153e-08, y: 5.96046306e-08, z: .0171343051, w: .999853194}
+      scale: {x: 1.00000012, y: 1, z: .999999702}
+      transformModified: 1
+    - name: joint73
+      position: {x: -.507743239, y: -2.01227923e-16, z: -1.73968047e-16}
+      rotation: {x: -2.98023224e-08, y: 2.98023224e-08, z: .00217743218, w: .999997675}
+      scale: {x: .99999994, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: joint74
+      position: {x: -.289938807, y: -6.94496544e-15, z: -7.75657914e-17}
+      rotation: {x: 2.98023153e-08, y: -5.96046306e-08, z: -.033825554, w: .999427855}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: joint75
+      position: {x: -.486463577, y: -2.77555756e-16, z: -1.54368936e-16}
+      rotation: {x: .441354305, y: .552454889, z: -.441354394, w: .552454948}
+      scale: {x: .999999821, y: .999999762, z: 1.00000024}
+      transformModified: 1
+    - name: nurbsCircle8
+      position: {x: -4.92661467e-16, y: .647660971, z: -.462416679}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1.34931517, y: 1.34931517, z: 1.34931517}
+      transformModified: 1
+    - name: nurbsCircle9
+      position: {x: -4.92661467e-16, y: 1.37305868, z: -.12518926}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1.26042759, y: 1.26042759, z: 1.26042759}
+      transformModified: 1
+    - name: nurbsCircle10
+      position: {x: -5.27763518e-16, y: 2.0021224, z: -.155160442}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1.59101641, y: 1.59101641, z: 1.59101641}
+      transformModified: 1
+    - name: nurbsCircle11
+      position: {x: -5.27763518e-16, y: 2.74773836, z: -.397773534}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1.99642134, y: 1.99642134, z: 1.99642134}
+      transformModified: 1
+    - name: pCone1
+      position: {x: -4.16871548, y: .16157198, z: -.00053601223}
+      rotation: {x: 1, y: 0, z: 0, w: 6.12323426e-17}
+      scale: {x: .200098082, y: .105372891, z: .131787241}
+      transformModified: 1
+    - name: transform45
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCone2
+      position: {x: -4.17030144, y: 4.83592606, z: .00445627002}
+      rotation: {x: -0, y: -.707106829, z: 0, w: .707106829}
+      scale: {x: .0287572388, y: .113678209, z: .0869587958}
+      transformModified: 1
+    - name: transform43
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCone3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform48
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCone4
+      position: {x: 1.23053074, y: -.242864102, z: -.764647722}
+      rotation: {x: .582612216, y: .502547085, z: .495320112, w: .403320521}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: pCube1
+      position: {x: .595689714, y: 2.8523128, z: -1.39214492}
+      rotation: {x: .460876703, y: -.13418366, z: .00346222287, w: .877254546}
+      scale: {x: .668312609, y: 1, z: .0687374324}
+      transformModified: 1
+    - name: transform40
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCube8
+      position: {x: -4.16305923, y: 1.0738517, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: .27819103, y: .27819103, z: .27819103}
+      transformModified: 1
+    - name: transform47
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCube9
+      position: {x: -4.1711998, y: 2.94572878, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: .345678985, y: 3.54204774, z: .0388888866}
+      transformModified: 1
+    - name: transform42
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder5
+      position: {x: -2.29012847, y: 2.43239999, z: -.456494629}
+      rotation: {x: 0, y: -0, z: -.707106829, w: .707106829}
+      scale: {x: .364805371, y: .364805371, z: .364805371}
+      transformModified: 1
+    - name: pCylinder8
+      position: {x: -.0092190532, y: 3.32982492, z: -.181801647}
+      rotation: {x: .153124049, y: -0, z: 0, w: .988206983}
+      scale: {x: .399153918, y: .392632276, z: .442662776}
+      transformModified: 1
+    - name: pCylinder22
+      position: {x: -4.16761684, y: .66083169, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: .0982670784, y: .0931628793, z: .0638270304}
+      transformModified: 1
+    - name: transform46
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Peter_s_Knight_Shield_UV_d:polySurface24
+      position: {x: -2.0369668, y: .0332347453, z: -2.11840463}
+      rotation: {x: .497564286, y: -.502423882, z: -.481795669, w: .517564416}
+      scale: {x: .226076186, y: .226076171, z: .226076171}
+      transformModified: 1
+    - name: polySurface2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform41
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform49
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPlane1
+      position: {x: -.264957309, y: 2.26027703, z: .312025368}
+      rotation: {x: .5, y: -.5, z: -.5, w: .5}
+      scale: {x: .294658124, y: .294658124, z: .294658124}
+      transformModified: 1
+    - name: polySurface2 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: day_1_hand_005:polySurface3
+      position: {x: 7.67084551, y: -1.05894029, z: -.899202406}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: transform9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: dude4:H_DDS_LowRes
+      position: {x: -4.66471052, y: -1.62160945, z: -.899202406}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: dude4:l_L_eye
+      position: {x: .145002037, y: .14419049, z: .460121214}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform36
+      position: {x: -.145002037, y: -3.77896237, z: -.294326186}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: dude4:l_L_gland
+      position: {x: -.0870934203, y: .133142814, z: .494488269}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform37
+      position: {x: .0870934203, y: -3.76791477, z: -.328693241}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: dude4:l_R_eye
+      position: {x: .145002037, y: .14419049, z: .460121214}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform34
+      position: {x: -.145002037, y: -3.77896237, z: -.294326186}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: dude4:l_R_gland
+      position: {x: .0874167308, y: .13180916, z: .497177869}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform35
+      position: {x: -.0874167308, y: -3.76658106, z: -.331382841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform38
+      position: {x: -0, y: -3.63477182, z: .165795028}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCube3
+      position: {x: 23.0925446, y: -1.23609281, z: -3.05116558}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: transform13
+      position: {x: -.634093463, y: 4.54412937, z: .0521994159}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCube4
+      position: {x: 23.0925446, y: -1.23609281, z: 1.25244367}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: transform12
+      position: {x: .634000003, y: 4.54412937, z: .0521994159}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder1
+      position: {x: 8.8393383, y: -1.95516741, z: -.899202406}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: transform24
+      position: {x: -0, y: .344305903, z: .264080584}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder10
+      position: {x: -.392889261, y: -2.54721189, z: 3.19367623}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: pCylinder11
+      position: {x: -.667336106, y: -.951496601, z: -.189927951}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform30
+      position: {x: 1.87333608, y: -1.42454839, z: .628459275}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder12
+      position: {x: -.943000019, y: -1.55404496, z: -.160468668}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform32
+      position: {x: 2.14899993, y: -.822000027, z: .598999977}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder13
+      position: {x: .145709783, y: -.249598652, z: .320436954}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform31
+      position: {x: 1.06029022, y: -2.12644625, z: .118094362}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform33
+      position: {x: 1.20599997, y: -2.37604499, z: .438531339}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder16
+      position: {x: -.392889261, y: -2.54721189, z: -5.00653601}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: pCylinder11 1
+      position: {x: .667336106, y: -.951496601, z: -.189927951}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform26
+      position: {x: -1.87759542, y: -1.42454839, z: .628459275}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder12 1
+      position: {x: .943000019, y: -1.55404496, z: -.160468668}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform28
+      position: {x: -2.15325928, y: -.822000027, z: .598999977}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder13 1
+      position: {x: -.145709783, y: -.249598652, z: .320436954}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform27
+      position: {x: -1.06454945, y: -2.12644625, z: .118094362}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform29
+      position: {x: -1.21025932, y: -2.37604499, z: .438531339}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder17
+      position: {x: 12.5460329, y: -2.97929001, z: 1.13683498}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: pCylinder18
+      position: {x: -.0383427553, y: -.851440787, z: .165069163}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform20
+      position: {x: .638277709, y: 2.28795433, z: .400777489}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder19
+      position: {x: -.0579659119, y: -1.80512238, z: .156450167}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform19
+      position: {x: .65790087, y: 3.24163604, z: .409396499}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform21
+      position: {x: .599934995, y: 1.43651366, z: .565846682}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder20
+      position: {x: 12.5460329, y: -2.97929001, z: -2.92048192}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: pCylinder18 1
+      position: {x: .0383427553, y: -.851440787, z: .165069163}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform15
+      position: {x: -.633929193, y: 2.28795433, z: .400777489}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder19 1
+      position: {x: .0579659119, y: -1.80512238, z: .156450167}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform14
+      position: {x: -.653552353, y: 3.24163604, z: .409396499}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform16
+      position: {x: -.595586479, y: 1.43651366, z: .565846682}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder21
+      position: {x: 6.03852654, y: -1.70356643, z: -.899202406}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: transform23
+      position: {x: -0, y: -.480975956, z: .189944327}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface3
+      position: {x: 7.67084551, y: -1.05894029, z: -.899202406}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: transform17
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface4
+      position: {x: 7.67084551, y: -1.05894029, z: -.899202406}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: transform25
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPipe1
+      position: {x: -2.47045708, y: -1.90722167, z: -.899202406}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: transform10
+      position: {x: -0, y: -2.98821735, z: .249952987}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPlane2
+      position: {x: 8.34324741, y: .690655351, z: -.899202406}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: transform18
+      position: {x: -0, y: .198128715, z: -.515532613}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPlane3
+      position: {x: 7.33056736, y: -4.19393206, z: -.907432437}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: transform22
+      position: {x: -.0024250471, y: -.100265615, z: .923750818}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPlane4
+      position: {x: .540962279, y: .563359022, z: -.899202406}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: transform11
+      position: {x: -0, y: -2.100878, z: -.478023678}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPlane15
+      position: {x: -5.20142698, y: -1.66978288, z: -.899202406}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.39376354, y: 3.39376354, z: 3.39376354}
+      transformModified: 1
+    - name: pCylinder14
+      position: {x: -.435509652, y: -.00771386921, z: .00909845717}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform5
+      position: {x: .435509652, y: -3.78520584, z: .17089127}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder15
+      position: {x: .433974713, y: -.00771386921, z: .00909845717}
+      rotation: {x: .707106829, y: -.707106829, z: -1.61054752e-16, w: 2.39559393e-16}
+      scale: {x: .0765411332, y: .0293089338, z: .0765411332}
+      transformModified: 1
+    - name: transform6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPlane7
+      position: {x: .0222426802, y: .622262716, z: .46903047}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform7
+      position: {x: -.0222426802, y: -4.41518259, z: -.289040744}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform8
+      position: {x: 1.80575023e-16, y: -3.79291964, z: .179989725}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPlane16
+      position: {x: -5.20142698, y: -1.66978288, z: -.899202406}
+      rotation: {x: -.5, y: .5, z: .5, w: .5}
+      scale: {x: 3.32476425, y: 3.32476425, z: 3.32476425}
+      transformModified: 1
+    - name: pCylinder14 1
+      position: {x: -.435509652, y: -.00771386921, z: .00909845717}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform1
+      position: {x: .435509652, y: -3.78520584, z: .17089127}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder15 1
+      position: {x: .433974713, y: -.00771386921, z: .00909845717}
+      rotation: {x: .707106829, y: -.707106829, z: -1.61054752e-16, w: 2.39559393e-16}
+      scale: {x: .0765411332, y: .0293089338, z: .0765411332}
+      transformModified: 1
+    - name: transform2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPlane7 1
+      position: {x: .0222426802, y: .622262716, z: .46903047}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform3
+      position: {x: -.0222426802, y: -4.41518259, z: -.289040744}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform4
+      position: {x: 1.80575023e-16, y: -3.79291964, z: .179989725}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform39
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere1
+      position: {x: -4.16883087, y: .0965037122, z: -.000726472412}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: .0283265952, y: .0283265952, z: .0283265952}
+      transformModified: 1
+    - name: transform44
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rusword:blade
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rusword:transform5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rusword:end
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rusword:transform2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rusword:garda
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rusword:transform4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rusword:hand
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rusword:transform3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rusword:sharik
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rusword:transform1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
