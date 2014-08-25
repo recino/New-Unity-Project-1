@@ -64,11 +64,8 @@
      <Compile Include="Assets\Scripts\Programing scripts\Robot.cs" />
      <Compile Include="Assets\Scripts\SlightMovement.cs" />
      <Compile Include="Assets\Scripts\Soundeffects.cs" />
-<<<<<<< HEAD
-     <Compile Include="Assets\Scripts\enemy_AI.cs" />
-=======
      <Compile Include="Assets\Scripts\Test.cs" />
->>>>>>> master
+     <Compile Include="Assets\Scripts\enemy_AI.cs" />
      <Compile Include="Assets\Scripts\enemy_AI_characterController.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
