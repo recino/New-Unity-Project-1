@@ -503,7 +503,7 @@ ModelImporter:
       name: Run_Normal
       takeName: Take 001
       firstFrame: 22
-      lastFrame: 45
+      lastFrame: 44
       wrapMode: 2
       orientationOffsetY: 0
       level: 0
