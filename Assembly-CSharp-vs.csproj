@@ -46,6 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Health.cs" />
+     <Compile Include="Assets\Health\TestHealth.cs" />
+     <Compile Include="Assets\Health\YourHealth.cs" />
      <Compile Include="Assets\Scripts\Attack.cs" />
      <Compile Include="Assets\Scripts\AttackRecieve.cs" />
      <Compile Include="Assets\Scripts\Collide.cs" />
@@ -61,6 +64,8 @@
      <Compile Include="Assets\Scripts\Programing scripts\Robot.cs" />
      <Compile Include="Assets\Scripts\SlightMovement.cs" />
      <Compile Include="Assets\Scripts\Soundeffects.cs" />
+     <Compile Include="Assets\Scripts\Test.cs" />
+     <Compile Include="Assets\Scripts\enemy_AI_characterController.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>/Users/Peter/Desktop/Unity/New Unity Project 1/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
