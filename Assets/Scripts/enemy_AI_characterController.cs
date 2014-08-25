@@ -40,13 +40,15 @@ public class enemy_AI_characterController : MonoBehaviour {
 		switch (_EnemyState) 
 		{
 		case EnemyStateEnum.Idle:
+			//Stick Idle stuff here
 			break;
 		case EnemyStateEnum.SeesPlayer:
+			//Stick run here
 			RotateToPlayer();
 			MoveToPlayer();
 			break;
 		case EnemyStateEnum.InRange:
-//			Debug.Log("Attack!");
+			//Stick attack stuff here
 			RotateToPlayer();
 			break;
 		}
@@ -54,7 +56,6 @@ public class enemy_AI_characterController : MonoBehaviour {
 
 	void MoveToPlayer() {
 		Vector3 playerPosition = _Target.transform.position;
-//		playerPosition.y = transform.position.y;
 		Vector3 direction = (playerPosition - transform.position).normalized;
 
 		//Move enemy to player
@@ -75,9 +76,6 @@ public class enemy_AI_characterController : MonoBehaviour {
 	}
 
 	void CheckTargetPosition (GameObject target) {
-//		if (_attackDistance > DetectDistance(target)) {
-//			_EnemyState = EnemyStateEnum.InRange;
-//		}
 
 		if (DetectDistance(target) > _viewDistance) {
 			_EnemyState = EnemyStateEnum.Idle;
