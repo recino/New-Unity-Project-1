@@ -10,6 +10,10 @@ public class enemy_AI_characterController : MonoBehaviour {
 	public float _Speed = 10.0f;
 	public float _RotationDamping = 1.0f;
 	public float _Gravity = 20.0f;
+	public YourHealth health;
+	public float attackCooldown = 2.0f;
+	public bool coolDown = false;
+	public Controller player;
 
 	//Private variables
 	enum EnemyStateEnum {
@@ -25,7 +29,7 @@ public class enemy_AI_characterController : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-		_EnemyState = EnemyStateEnum.SeesPlayer;	
+		//_EnemyState = EnemyStateEnum.SeesPlayer;	
 		controller = GetComponent<CharacterController>();
 
 	}
@@ -33,8 +37,8 @@ public class enemy_AI_characterController : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		CheckTargetPosition(_Target);
-		Debug.Log(DetectDistance(_Target));
-		Debug.Log(_EnemyState);
+		//Debug.Log(DetectDistance(_Target));
+		//Debug.Log(_EnemyState);
 		
 		//Finite State Machine
 		switch (_EnemyState) 
@@ -49,6 +53,14 @@ public class enemy_AI_characterController : MonoBehaviour {
 			break;
 		case EnemyStateEnum.InRange:
 			//Stick attack stuff here
+			//Debug.Log("blarg");
+			if (coolDown == false){ 
+				if (player.blocking == false){
+					health.ModifyHealth(-1);
+					StartCoroutine("AttackTime");
+				}
+				coolDown = true;
+			}
 			RotateToPlayer();
 			break;
 		}
@@ -86,5 +98,11 @@ public class enemy_AI_characterController : MonoBehaviour {
 		else if (_attackDistance > DetectDistance(target)){
 			_EnemyState = EnemyStateEnum.InRange;
 		}
+	}
+	IEnumerator AttackTime()
+	{
+		yield return new WaitForSeconds(attackCooldown);
+		coolDown = false;
+		//Debug.Log("Again");
 	}
 }

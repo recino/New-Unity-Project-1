@@ -2,10 +2,10 @@
 using System.Collections;
 
 public class Controller : MonoBehaviour {
-	public bool sheathed = true;
+	public bool sheathed = false;
 	public float sheathingTime = 1.5f;
 	public float attackCooldown = 1.0f;
-	public float attackHevyCooldown = 2.0f;
+	public float attackHevyCooldown = 1.5f;
 	public float invincablity = 1.5f; 
 	public bool blocking = false;
 	public bool coolDown = false;
@@ -23,8 +23,8 @@ public class Controller : MonoBehaviour {
 		{
 			if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
 			{
-				Debug.Log ("Hello Rose Tyler.");
-				//animation.CrossFade("Run_Normal");
+			//	Debug.Log ("Hello Rose Tyler.");
+				animation.CrossFade("Run_Normal");
 			}
 			else
 			{
@@ -41,8 +41,8 @@ public class Controller : MonoBehaviour {
 		{
 			if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
 			{
-				Debug.Log ("Run for your life!");
-				//animation.CrossFade("Run_Sword");
+			//	Debug.Log ("Run for your life!");
+				animation.CrossFade("Run_Sword");
 			}
 			else
 			{
@@ -50,22 +50,24 @@ public class Controller : MonoBehaviour {
 			}
 		}
 
-		else if (sheathed == false)
-		{
-			//animation.CrossFadeQueued("Idol_Sword");
+		//else if (sheathed == false)
+		//{
+			//animation.CrossFadeQueued("Idle_Sword");
 			//animation.CrossFadeQueued("Sheathe");
-			StartCoroutine("WaitForSword");
-		}
+			//StartCoroutine("WaitForSword");
+		//}
 
 		if (Input.GetKey(KeyCode.F) && blocking == false)
 		{
-			animation.CrossFadeQueued("Block_Start");
-			sheathed = false;
+
+			animation.CrossFade("Block");
+			blocking = true;
 		}
 
 		if (Input.GetKey(KeyCode.F) && blocking == true)
 		{
-			animation.CrossFadeQueued("Block_Continue");
+
+			animation.CrossFadeQueued("Block_Hold");
 		}
 
 		if (Input.GetKeyUp(KeyCode.F) && blocking == true)
@@ -74,14 +76,16 @@ public class Controller : MonoBehaviour {
 		}
 
 
-		/*if (!Input.anyKey || !Input.anyKeyDown)
+		if (!Input.anyKey || !Input.anyKeyDown)
 		{
-			Debug.Log("hi");
-		}*/
+			animation.CrossFadeQueued("Idle_Sword");
+		}
+
 		if (Input.GetMouseButtonDown(0) && sheathed == false && coolDown == false){
-			animation.Play("Attack_Normal");
-			coolDown = true;
+			animation.Play("Attack 1");
 			StartCoroutine("AttackTime");
+			coolDown = true;
+
 		}
 		else if (Input.GetMouseButtonDown(0) && sheathed == true)
 		{
@@ -90,9 +94,9 @@ public class Controller : MonoBehaviour {
 		}
 
 		if (Input.GetMouseButtonDown(1) && sheathed == false && coolDown == false){
-			animation.Play("Attack_Heavy");
-			coolDown = true;
+			animation.Play("Attack 2");
 			StartCoroutine("AttackHeavyTime");
+			coolDown = true;
 		}
 		else if (Input.GetMouseButtonDown(1) && sheathed == true)
 		{
